@@ -1,7 +1,5 @@
 export function onLoad() {
     const customCSS = `
-        button[aria-label="Open sticker picker"],
-        button[aria-label="Open GIF picker"],
         button[aria-label="Send a gift"],
         div[aria-label="Help"],
         div[aria-label="Inbox"],
